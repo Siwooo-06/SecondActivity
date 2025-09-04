@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Second Activity</string>
+    <string name="first_activity">First Activity</string>
+    <string name="show_second_activity">Show Second Activity</string>
+    <string name="back_to_first_activity">Back to First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="textview">TextView</string>
+</resources>
